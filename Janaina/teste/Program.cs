@@ -5,7 +5,9 @@ namespace teste
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            
+            //teste
             string variavel;
             variavel=Console.ReadLine();
             Console.WriteLine("janaina " + variavel);
