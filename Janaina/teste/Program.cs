@@ -7,7 +7,7 @@ namespace teste
         static void Main(string[] args)
         {   
             
-            //testeaaaaasdfdsdsf asd a dad  qwe wqeqe
+            //testeaaaaasdfdsdsf asd a dad  qwe wqeqe qw wqe wqe qe wqe wqe qe
             string variavel;
             variavel=Console.ReadLine();
             Console.WriteLine("janaina " + variavel);
